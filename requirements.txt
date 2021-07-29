@@ -1,0 +1,4 @@
+Channels>=3.0
+Django>=2.2
+channels_redis>=3.2
+redis~=2.10.5
